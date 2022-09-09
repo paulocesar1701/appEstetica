@@ -1,0 +1,22 @@
+.image{  
+    height: 550px;
+    width: 600px;
+    margin-left: 500px;
+}
+
+h1{
+    font-size: 70px;
+    font: optional;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: blue;
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
+
+.bt{
+    border-radius: 100px;
+    
+}

@@ -1,0 +1,25 @@
+.image{  
+    height: 550px;
+    width: 600px;
+    margin-left: 500px;
+    
+}
+
+h1{
+    font-size: 70px;
+    font: optional;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: blue;
+    text-align: center;
+}
+
+.botao1{
+    background-color: yellowgreen;
+    margin-left: 750px;
+    border-radius: 250px;
+    font-size: xx-large;
+}
+
+body{
+    background-color: bisque;
+}
